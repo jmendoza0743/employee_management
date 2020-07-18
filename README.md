@@ -7,6 +7,8 @@ Build a command-line application that allows the user to view employees, view em
 ## Technologies
 Used MySQL, Node, Inquirer and Javascript. 
 
+##Link to Video Demo 
+https://youtu.be/s01NLBVkkOU
 
 ## How to Use
 Download the files and run in the terminal
